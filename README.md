@@ -19,7 +19,7 @@ Follow these steps to set up the project locally and run it:
 
 ```sh
 # Step 1: Clone the repository
-git clone <YOUR_GIT_REPOSITORY_URL>
+git clone https://github.com/chetanchaudhari789/CNAPP-Dashboard.git
 
 # Step 2: Navigate to the project directory
 cd cnapp-dashboard
